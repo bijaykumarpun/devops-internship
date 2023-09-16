@@ -20,11 +20,11 @@ Duration: 7-8 Weeks
 
 ## 1. DevOps Introduction [week 1] (day 1, day2)
 
-- [ ]    Software Development Life Cycle (SDLC)
+- [x]    Software Development Life Cycle (SDLC)
     
-- [ ]  Traditional Models of SDLC
+- [x]  Traditional Models of SDLC
     
-- [ ]  What is DevOps/SRE and the Difference between DevOps and SRE?
+- [x]  What is DevOps/SRE and the Difference between DevOps and SRE?
     
 - [ ] DevOps Lifecycle & Tools
     
